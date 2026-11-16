@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+.env
+# Données RH du CHU : ne pas publier (données personnelles)
+data/
+*.xlsx
+*.csv
