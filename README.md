@@ -18,7 +18,6 @@ Mini-projet du module **Data Mining** (Master IASD – Université Mohammed Prem
 ```
 notebooks/preparation_et_modelisation.ipynb   # nettoyage + modélisation (Python)
 orange/projetdata.ows                         # workflow Orange Data Mining
-docs/rapport.pdf                              # rapport complet (méthodologie, résultats)
 requirements.txt
 ```
 
